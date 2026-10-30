@@ -1,5 +1,13 @@
 # FormatFossil
 
+<!-- REPOSITORY-HEALTH:START -->
+[![Code quality](https://github.com/VireonNoctis/FormatFossil/actions/workflows/repository-health.yml/badge.svg?branch=main)](https://github.com/VireonNoctis/FormatFossil/actions/workflows/repository-health.yml)
+[![Top language](https://img.shields.io/github/languages/top/VireonNoctis/FormatFossil?style=flat-square)](https://github.com/VireonNoctis/FormatFossil)
+[![Languages](https://img.shields.io/github/languages/count/VireonNoctis/FormatFossil?style=flat-square)](https://github.com/VireonNoctis/FormatFossil)
+[![Automated tech stack](https://img.shields.io/badge/tech_stack-auto--detected-64748b?style=flat-square)](TECH_STACK.md)
+<!-- REPOSITORY-HEALTH:END -->
+
+
 <p align="center">
   <strong>Conversion is a claim. Fidelity is something you test.</strong><br/>
   A file-conversion forensics laboratory for measuring what survives between formats, tools, and versions.
